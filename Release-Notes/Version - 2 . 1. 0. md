@@ -1,0 +1,19 @@
+# Release Notes-Version 2.1.0
+Release Date: June 2026
+## New Features
+-Added dark mode support.
+-Added email verification reminders.
+-Added user profile editing.
+## Improvements
+-Faster login performance.
+-Improved account registration flow.
+-Better error messages for users.
+## Bug Fixes
+-Fixed password reset email issue.
+-Fixed login page looading problem.
+-Fixed profile picture upload bug.
+## Known Issues
+-Dark mode may not apply immediately.
+-Profile images larger than 10 MB may fail to upload.
+## Notes
+Thank you for using our application.We continue to improve the user experience with every release.
