@@ -2,13 +2,13 @@
 
 Welcome to my Technical Writing Portfolio.
 
-This repository showcases documentation samples created using industry-standard documentation practices. The portfolio demonstrates my ability to create clear, structured, and user-focused content for different audiences.
+This repository showcases documentation projects created using industry-standard technical writing practices and tools. The portfolio demonstrates my ability to create clear, structured, user-focused documentation for software products and services.
 
 ## About Me
 
-I am an aspiring Technical Writer with experience creating user documentation, knowledge base articles, API documentation, troubleshooting guides, release notes, and product documentation.
+I am an aspiring Technical Writer with hands-on experience creating user documentation, API references, knowledge base articles, product documentation, FAQs, troubleshooting guides, and release notes.
 
-I use Markdown, GitHub, Git, and Visual Studio Code to create and manage documentation.
+I use Markdown, Git, GitHub, and Visual Studio Code to create and manage documentation efficiently.
 
 ## Portfolio Contents
 
@@ -17,52 +17,55 @@ I use Markdown, GitHub, Git, and Visual Studio Code to create and manage documen
 * Notion User Guide
 * Quick Start Guide
 * Software Installation Guide
+* User Onboarding Guide
+
+### API Documentation
+
+* API Reference Documentation
 
 ### Knowledge Base Articles
 
-* Reset Password Guide
 * Login Troubleshooting Guide
-* Troubleshooting Guide
-
-### Technical Documentation
-
-* API Documentation
+* Reset Password Guide
+* Frequently Asked Questions (FAQ)
 
 ### Product Documentation
 
 * Product Requirements Document (PRD)
 * Feature Announcement
 
-### Release Documentation
+### Release Notes
 
 * Version 2.1.0 Release Notes
 
-### Support Documentation
+## Tools and Technologies
 
-* Frequently Asked Questions (FAQ)
+* Markdown
+* Git
+* GitHub
+* Visual Studio Code
 
-## Skills Demonstrated
+## Skills
 
 * Technical Writing
 * User Documentation
 * API Documentation
-* Knowledge Base Creation
-* Release Notes
+* Knowledge Base Writing
+* Product Documentation
+* Release Notes Writing
+* Documentation Management
+* Content Organization
+* Editing and Proofreading
 * Markdown
-* GitHub
 * Git
-* Visual Studio Code
-* Documentation Organization
-
-## Tools Used
-
-* Visual Studio Code
 * GitHub
-* Git
-* Markdown
 
 ## Portfolio Goal
 
-The purpose of this portfolio is to demonstrate technical writing skills, document organization, and the ability to communicate technical information clearly and effectively.
+The purpose of this portfolio is to demonstrate practical technical writing skills through real-world documentation samples and industry-standard workflows.
 
-Thank you for visiting my portfolio.
+## Contact
+
+GitHub: https://github.com/himahailey
+
+Thank you for visiting my Technical Writing Portfolio.
