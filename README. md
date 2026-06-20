@@ -1,28 +1,68 @@
 # Technical Writing Portfolio
+
+Welcome to my Technical Writing Portfolio.
+
+This repository showcases documentation samples created using industry-standard documentation practices. The portfolio demonstrates my ability to create clear, structured, and user-focused content for different audiences.
+
 ## About Me
-Hello! I am an aspiring Technical Writer.
-This portfolio contains documentation samples created as part of my technical  writing journey.
-### Portfolio Projects
-### User Guide 
--notion-user-guide.md
-### API documentation
-### Knowledge Base
--login-troubleshooting.md
--reset-password.md
-### Release Notes
--Version-2. 1. 0. md
-## Skills
--Technical Writing
--Markdown
--Documentation
--User Guide Writing
--API documentation
--Knowledge Base Writing
--Release Notes Writing
-### Learning Progress
-Completed
--Day 1:Setup
--Day 2:User Guide
--Day 3:API documentation
--Day 4:Knowledge Base 
--Day 5:Release Notes
+
+I am an aspiring Technical Writer with experience creating user documentation, knowledge base articles, API documentation, troubleshooting guides, release notes, and product documentation.
+
+I use Markdown, GitHub, Git, and Visual Studio Code to create and manage documentation.
+
+## Portfolio Contents
+
+### User Documentation
+
+* Notion User Guide
+* Quick Start Guide
+* Software Installation Guide
+
+### Knowledge Base Articles
+
+* Reset Password Guide
+* Login Troubleshooting Guide
+* Troubleshooting Guide
+
+### Technical Documentation
+
+* API Documentation
+
+### Product Documentation
+
+* Product Requirements Document (PRD)
+* Feature Announcement
+
+### Release Documentation
+
+* Version 2.1.0 Release Notes
+
+### Support Documentation
+
+* Frequently Asked Questions (FAQ)
+
+## Skills Demonstrated
+
+* Technical Writing
+* User Documentation
+* API Documentation
+* Knowledge Base Creation
+* Release Notes
+* Markdown
+* GitHub
+* Git
+* Visual Studio Code
+* Documentation Organization
+
+## Tools Used
+
+* Visual Studio Code
+* GitHub
+* Git
+* Markdown
+
+## Portfolio Goal
+
+The purpose of this portfolio is to demonstrate technical writing skills, document organization, and the ability to communicate technical information clearly and effectively.
+
+Thank you for visiting my portfolio.
